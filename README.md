@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @DIN-DKE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Standards und Normen sind heutzutage nicht mehr ausschließlich Text basierte Dokumente, und die Formate aktueller Standards sind mittlerweile sehr unterschiedlich. So erfüllen technische Informationen in Form von Metadaten oder (reproduzierbarer) Source Code ebenfalls den Zweck von Standards. Open-Source-Projekte ermöglichen, durch agile Arbeitsweisen und die Möglichkeit alle Stakeholder im Entwicklungsprozess frühzeitig einzubinden, eine schnelle Implementierung. Gewisse Standards wie z.B. Schnittstellen und Protokolle werden bereits in Open-Source entwickelt, wobei der Code selbst als Standard (z.B. W3C Standards) fungieren kann oder aber einen Teil des Standards bildet. Genau bei diesen Teilmengen existieren Synergien zwischen Open-Source und SDOs. 
+Damit ist es naheliegend, dass DIN und DKE ihr aktuelles Produktangebot hinsichtlich der Integration von Open-Source-Angeboten erweitern. Ergebnis dieses Prozesses ist die Weiterentwicklung des Produktangebots. Diese Plattform bietet auf Basis der Arbeit der FOCUS.ICT-TF Open Source hierzu Lösungen.
 
-<!---
-DIN-DKE/DIN-DKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+
+
