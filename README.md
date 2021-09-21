@@ -76,7 +76,7 @@ Agiles Projektmanagement ist in der Softwareentwicklung längst Best-Practice un
 
 
 | VDE  DKE |     DIN e. V.  |
-|----------|:-------------:|
+|----------|-------------|
 |Dr. Michael Rudschuck| Daniel Haack |
 |Abteilungsleiter Industry | Projektmanager Digitale Plattformen |
 |                          | |
