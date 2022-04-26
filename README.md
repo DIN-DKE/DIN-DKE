@@ -80,8 +80,8 @@ Agiles Projektmanagement ist in der Softwareentwicklung längst Best-Practice un
 |Dr. Michael Rudschuck| Daniel Haack |
 |Abteilungsleiter Industry | Projektmanager Digitale Plattformen |
 |                          | |
-|Stresemannallee 15    | Burggrafenstraße 6 |
-|D-60596 Frankfurt am Main  | D-10787 Berlin |
+|Merianstr. 28              | Burggrafenstraße 6 |
+|D-63069 Offenbach am Main  | D-10787 Berlin |
 |Tel. +49 69 6308 – 266     | Tel.  +49 30 2601-2407 |
 |Michael.Rudschuck@vde.com  | Daniel.Haack@din.de |
 | [DKE](http://www.dke.de)  | [DIN](http://din.de) |
